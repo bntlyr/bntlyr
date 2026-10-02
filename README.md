@@ -1,9 +1,15 @@
+# Hi, I'm Bently 👋
+
+**Software Engineer · AI Engineer**
+
+I like **building things, solving problems, and creating my own systems** to turn ideas into practical solutions.
+
+## 🛠️ Tech Stack
+
 <table>
   <tr>
+    <td width="180"><strong>Core Stack</strong></td>
     <td>
-      <strong>Core Stack</strong>
-      <br><br>
-
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
@@ -14,12 +20,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     </td>
   </tr>
-
   <tr>
+    <td><strong>Also Work With</strong></td>
     <td>
-      <strong>Also Work With</strong>
-      <br><br>
-
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
