@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bently 👋</h1>
 
-<p><strong>Software Engineer · AI Engineer</strong></p>
+<p><strong>Software Engineer · AI Engineer · App Developer</strong></p>
 
 <p>
 I like <strong>building things, solving problems, and creating my own systems</strong>
@@ -25,6 +25,20 @@ to turn ideas into practical solutions.
 <br></br>
 </td>
 </tr>
+
+<tr>
+<td>
+<strong>App development Tools & Languages</strong>
+<br></br>
+<img height="40" src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<br></br>
+</td>
+</tr>
+
 <tr>
 <td>
 <strong>Also Work With</strong>
