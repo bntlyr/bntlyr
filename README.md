@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bently 👋</h1>
 
-<p><strong>Software Engineer · AI Engineer · App Developer</strong></p>
+<p><strong>Software Engineer · App Developer · AI Engineer </strong></p>
 
 <p>
 I like <strong>building things, solving problems, and creating my own systems</strong>
@@ -32,6 +32,19 @@ to turn ideas into practical solutions.
 <img height="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>AI & Machine Learning</strong>
+<br><br>
+<img height="40" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
 </td>
 </tr>
 
@@ -99,16 +112,4 @@ to turn ideas into practical solutions.
 </td>
 </tr>
 
-<tr>
-<td>
-<strong>AI & Machine Learning</strong>
-<br><br>
-<img height="40" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-</td>
-</tr>
 </table>
